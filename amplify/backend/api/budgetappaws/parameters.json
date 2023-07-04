@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "budgetappaws",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}

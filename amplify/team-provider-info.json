@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "budgetappawsfc39d993": {}
+      },
+      "api": {
+        "budgetappaws": {}
       }
     }
   }
